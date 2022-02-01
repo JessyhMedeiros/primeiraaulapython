@@ -25,4 +25,4 @@ print(str(valor))
 a = 3 * 1
 b = 3 * 2
 c = 3 * 3
-print(f'o resultado é:{math.pow(3, 3)}')
+print(f'o resultado é:{valor1}')
